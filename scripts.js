@@ -2,7 +2,7 @@ function Phone(brand, price, color, memory, size, weight, camera) {
 	this.brand 	= brand;
 	this.price 	= price;
 	this.color 	= color;
-	this.memory = memory;
+	this.memory 	= memory;
 	this.size	= size;
 	this.weight	= weight;
 	this.camera	= camera;	
